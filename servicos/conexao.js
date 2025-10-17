@@ -1,4 +1,4 @@
-// Arquivo responsável pela conexao com o Bando de Dados.
+// Arquivo responsável pela conexao com o Banco de Dados.
 
 // 1 - Importe a bilbioteca mysql2
 import mysql from 'mysql2/promise';

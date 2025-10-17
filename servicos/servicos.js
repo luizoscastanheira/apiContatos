@@ -15,4 +15,4 @@ async function listarTodosMedicos(){
     return medicos; // Retorna o resultado completo da consulta
 };
 
-export {listarTodosMedicos}
+export {listarTodosMedicos};
