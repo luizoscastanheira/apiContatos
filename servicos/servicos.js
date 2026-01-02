@@ -1,4 +1,4 @@
-// Arquivo com as funćões necessárias ao funcionamento da API
+// Arquivo com as funções necessárias ao funcionamento da API
 
 // 1 - Importando a conexão como banco
 import pool from './conexao.js';

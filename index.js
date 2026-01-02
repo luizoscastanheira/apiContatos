@@ -6,7 +6,7 @@
 import express from 'express';
 const app = express();
 
-// 2 - Configurando cors
+// 2 - Configurando cors para acesso à  partir de outros domínios
 import cors from 'cors';
 app.use(cors());
 
